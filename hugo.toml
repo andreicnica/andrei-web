@@ -24,7 +24,7 @@ baseURL = "https://www.andreinica.com/"
   title = "Andrei Nica"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "Andrei Nica"
+  description = ""
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -121,7 +121,7 @@ baseURL = "https://www.andreinica.com/"
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "My cool site"
+    title = "Andrei Nica"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
