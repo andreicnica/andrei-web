@@ -209,8 +209,8 @@ baseURL = "https://www.andreinica.com/"
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/andreicnica"
-    Linkedin = "https://www.linkedin.com/in/andreicnica/"
+    GitHub = "andreicnica"
+    Linkedin = "andreicnica"
     X = ""
     Instagram = ""
     Facebook = ""
