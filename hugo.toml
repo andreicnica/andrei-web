@@ -183,7 +183,7 @@ baseURL = "https://www.andreinica.com/"
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://drive.google.com/file/d/1bYIMNNImcuXP7BibBf3PknJ1zUrieP8O"
+      avatarURL = "https://github.com/andreicnica/andrei-web/blob/main/images/profile_picture.jpeg?raw=true"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = ""
